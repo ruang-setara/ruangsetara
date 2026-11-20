@@ -1,0 +1,8 @@
+# The repository currently contains no application code (only README.md),
+# so there is no framework, package manager or build step yet.
+# The repository root is published as a plain static site.
+# Update these settings once the site's source code is added
+# (e.g. command = "npm run build", publish = "dist" for a Vite app).
+[build]
+  command = ""
+  publish = "."
